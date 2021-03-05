@@ -2,9 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://canyonriders.co.nz/</loc>
+  </url><url>
     <loc>http://canyonriders.co.nz/categories/</loc>
   </url><url>
-    <loc>http://canyonriders.co.nz/</loc>
+    <loc>http://canyonriders.co.nz/posts/</loc>
+  </url><url>
+    <loc>http://canyonriders.co.nz/elements/</loc>
   </url><url>
     <loc>http://canyonriders.co.nz/tags/</loc>
   </url>
